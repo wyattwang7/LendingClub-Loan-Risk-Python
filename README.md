@@ -9,3 +9,4 @@ Our goal is to identify the risk of unsecured personal loans. Specifically, a ma
 * Keywords: downcasting dtypes, correlation matrix, custom transformers, baseline model, feature selection w/ regularization, feature complexity, oversampling, precision-recall-threshold, business analysis
 
 
+[Here](https://nbviewer.jupyter.org/github/wyattwang7/LendingClub/blob/master/lending_club.ipynb#7.1) is the static html file of lending_club.ipynb.
