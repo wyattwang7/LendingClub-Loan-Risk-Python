@@ -19,7 +19,7 @@ downcasting dtypes, correlation matrix, custom transformers, baseline model, fea
     Fico, credit length, dti, annual income, interest rate, subgrade, inquiries in last 6 months and their interactions.    
   - Business objectives  
     Explained by the trade-off between preicision and recall.  
-  - Loan Loss(**ECL** Model)
+  - Loan Loss(**ECL** Model)  
     `Expected Credit Loss = LGD x PD x EAD`  
     LGD(%): Mmount unrecovered by the lender after selling the underlying asset if a borrower defaults on a loan.  
     **PD**: Probability of default, which is calculated by the **Logistic regression model**.  
