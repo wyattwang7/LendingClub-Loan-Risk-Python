@@ -6,7 +6,7 @@ In this project, we analyze the loan data of LendingClub from the year 2007 to t
 
 [Here](https://nbviewer.jupyter.org/github/wyattwang7/LendingClub/blob/master/lending_club.ipynb) is the static html file of lending_club.ipynb.
 
-1. Keywords
+1. Keywords  
 downcasting dtypes, correlation matrix, custom transformers, baseline model, feature selection w/ regularization, feature complexity, oversampling, precision-recall-threshold, loan loss
 
 2. Summary
