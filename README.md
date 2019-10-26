@@ -4,7 +4,7 @@ LendingClub Corp. is an online lender who makes loans online to consumers and se
 
 In this project, we analyze the loan data of LendingClub from the year 2007 to the second quarter in 2019. The data explores the demographic dimensions of personal loans and loan status (fully paid/ charged off), which is available on their website once you create an account. **Our goal** is to identify the risk of unsecured personal loans. Specifically, a machine learning model was developed to predict the probability of full payment and charge off. On top of that, we utilize the model to predict the expected loan loss from current borrowers, providing insights about risk control and loss reduction.
 
-[Here](https://nbviewer.jupyter.org/github/wyattwang7/LendingClub/blob/master/lending_club.ipynb#7.1) is the static html file of lending_club.ipynb.
+[Here](https://nbviewer.jupyter.org/github/wyattwang7/LendingClub/blob/master/lending_club.ipynb) is the static html file of lending_club.ipynb.
 
 1. Keywords
 downcasting dtypes, correlation matrix, custom transformers, baseline model, feature selection w/ regularization, feature complexity, oversampling, precision-recall-threshold, loan loss
