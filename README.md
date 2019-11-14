@@ -21,6 +21,6 @@ downcasting dtypes, correlation matrix, custom transformers, baseline model, fea
     Explained by the trade-off between preicision and recall.  
   - Loan loss(**ECL** model)  
     `Expected Credit Loss = LGD x PD x EAD`  
-    LGD(%): Mmount unrecovered by the lender after selling the underlying asset if a borrower defaults on a loan.  
+    LGD(%): Amount unrecovered by the lender after selling the underlying asset if a borrower defaults on a loan.  
     **PD**: Probability of default, which is calculated by the **Logistic regression model**.  
     EAD: Remaining outstanding principal. 
